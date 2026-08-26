@@ -196,6 +196,11 @@ Por defecto, `chatbot.py` interpreta la voz usando un diccionario de palabras cl
 1. En `chatbot.py`, cambia `USAR_IA = True`.
 2. Coloca tu API key en `DEEPSEEK_API_KEY`.
 
+## video 
+<video src="https://github.com/user-attachments/assets/REEMPLAZAR-videochatbot-" controls width="500"></video>
+
+📹 Archivo: [`evidencias/videos/deteccion_videochatbot.mp4`](./evidencias/videos/deteccion_videochatbot.mp4)
+
 ## Conclusión
 
 Este proyecto permite aplicar conceptos básicos de **domótica, programación en Python, MicroPython y comunicación serial**, integrando reconocimiento de voz para controlar un dispositivo físico. Aunque aquí se controla un solo LED, el mismo principio puede ampliarse para controlar más LEDs, lámparas, ventiladores, motores, relés u otros elementos de una vivienda inteligente.
