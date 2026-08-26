@@ -197,7 +197,7 @@ Por defecto, `chatbot.py` interpreta la voz usando un diccionario de palabras cl
 2. Coloca tu API key en `DEEPSEEK_API_KEY`.
 
 ## video 
-<video src="https://github.com/user-attachments/assets/REEMPLAZAR-videochatbot-" controls width="500"></video>
+<video src="https://github.com/user-attachments/assets/REEMPLAZAR-videochatbot.mp4-" controls width="500"></video>
 
 📹 Archivo: [`evidencias/videos/deteccion_videochatbot.mp4`](./evidencias/videos/deteccion_videochatbot.mp4)
 
